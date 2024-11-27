@@ -1,0 +1,9 @@
+{
+	"redirects": [
+		{
+			"source": "/(.*)",
+			"destination": "https://reti-fnet.nodely.io/$1",
+			"permanent": true
+		}
+	]
+}
