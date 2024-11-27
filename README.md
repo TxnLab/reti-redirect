@@ -8,3 +8,7 @@ For example:
 
 - `reti.vercel.app/` → `https://reti-fnet.nodely.io/`
 - `reti.vercel.app/validators/1` → `https://reti-fnet.nodely.io/validators/1`
+
+## GitHub Repository
+
+This repository is a simple redirect setup. The actual repository can be found at https://github.com/algorandfoundation/reti.
